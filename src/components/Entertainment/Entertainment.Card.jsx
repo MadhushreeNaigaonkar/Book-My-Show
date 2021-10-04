@@ -33,7 +33,7 @@ const EntertainmentCardSlider =()=>{
 
     const settings={
         infinite: false,
-        autoplay:true,
+        autoplay:false,
         slidesToShow:5,
         NextArrow:<NextArrow />,
         BackArrow:<PrevArrow />,
